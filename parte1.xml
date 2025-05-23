@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<productes botiga="BotigaOnline" pais="ES">
+  
+  <!-- Producte 1 -->
+  <producte codi="P001">
+    <nom>Portàtil XYZ</nom>
+    <descripcio>Portàtil amb 16GB RAM i 512GB SSD</descripcio>
+    <preu>899.99</preu>
+    <categoria>Electrònica</categoria>
+    <disponibilitat>en estoc</disponibilitat>
+    <imatge>https://exemple.com/img/portatil.jpg</imatge>
+  </producte>
+
+  <!-- Producte 2 -->
+  <producte codi="P002">
+    <nom>Auriculars Bluetooth</nom>
+    <descripcio>Auriculars sense fils amb cancel·lació de soroll</descripcio>
+    <preu>59.90</preu>
+    <categoria>Accessoris</categoria>
+    <disponibilitat>esgotat</disponibilitat>
+    <imatge>https://exemple.com/img/auriculars.jpg</imatge>
+  </producte>
+
+</productes>
