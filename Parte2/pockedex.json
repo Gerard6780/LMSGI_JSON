@@ -1,0 +1,86 @@
+{
+  "pokemons": [
+    {
+      "nombre": "Bulbasaur",
+      "imagen": "Bulbasaur.png",
+      "generacion": "Primera",
+      "categoria": "Semilla",
+      "tipos": ["Planta", "Veneno"],
+      "habilidad": "Espesura",
+      "habilidad_oculta": "Clorofila",
+      "peso_kg": 6.9,
+      "altura_m": 0.7,
+      "grupos_huevo": ["Monstruo", "Planta"],
+      "sexo": {
+        "porcentaje_macho": 87.5,
+        "porcentaje_hembra": 12.5
+      },
+      "color": "Verde",
+      "figura": "Cuadrúpedo",
+      "pokeatlon": {
+        "velocidad": 3,
+        "fuerza": 3,
+        "precision": 4,
+        "resistencia": 4,
+        "salto": 3,
+        "total": 17,
+        "media": 3.4
+      }
+    },
+    {
+      "nombre": "Charmander",
+      "imagen": "Charmander.png",
+      "generacion": "Primera",
+      "categoria": "Lagartija",
+      "tipos": ["Fuego"],
+      "habilidad": "Mar Llamas",
+      "habilidad_oculta": "Poder Solar",
+      "peso_kg": 8.5,
+      "altura_m": 0.6,
+      "grupos_huevo": ["Monstruo", "Dragón"],
+      "sexo": {
+        "porcentaje_macho": 87.5,
+        "porcentaje_hembra": 12.5
+      },
+      "color": "Rojo",
+      "figura": "Bípedo con cola",
+      "pokeatlon": {
+        "velocidad": 4,
+        "fuerza": 3,
+        "precision": 3,
+        "resistencia": 3,
+        "salto": 3,
+        "total": 16,
+        "media": 3.2
+      }
+    },
+    {
+      "nombre": "Squirtle",
+      "imagen": "Squirtle.png",
+      "generacion": "Primera",
+      "categoria": "Tortuguita",
+      "tipos": ["Agua"],
+      "habilidad": "Torrente",
+      "habilidad_oculta": "Cura Lluvia",
+      "peso_kg": 9.0,
+      "altura_m": 0.5,
+      "grupos_huevo": ["Monstruo", "Agua 1"],
+      "sexo": {
+        "porcentaje_macho": 87.5,
+        "porcentaje_hembra": 12.5
+      },
+      "color": "Azul",
+      "figura": "Bípedo con cola",
+      "pokeatlon": {
+        "velocidad": 3,
+        "fuerza": 2,
+        "precision": 3,
+        "resistencia": 4,
+        "salto": 2,
+        "total": 14,
+        "media": 2.8
+      }
+    }
+  ]
+}
+
